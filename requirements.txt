@@ -1,0 +1,8 @@
+nltk
+torch
+transformers
+langchain
+scikit-learn
+openai
+datasets
+accelerate
